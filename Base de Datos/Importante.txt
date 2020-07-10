@@ -1,0 +1,4 @@
+CREE UNA BASE DE DATOS "MySQL" CON EL NOMBRE API, SEGUIDO DE ESO IMPORTE EL SCRIP BD 
+QUE SE ADJUNTA EN ESTA CARPETA.
+
+(el Scrip contien la tabla y los atributos que se utilizaran por parte de la API REST)
