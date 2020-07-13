@@ -73,7 +73,7 @@ public class UserRestController {
 			return user;
 		}
 		
-		/*Este método GET que llama la url + el id ingresado
+		/*Este método DELETE que llama la url + el id ingresado
 		localhost:8080/api/users*/
 		@DeleteMapping("users/{userId}")
 		public String deteteUser(@PathVariable int userId) {
